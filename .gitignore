@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+    int number;
+    scanf("%d",&number);
+    scanf("%d",&years);
+    
+    float a;
+    
+    interest = capital * interest_rate / 100
+    capital = capital + interest;
+    
+    printf("%f", my_float_value);
+}
